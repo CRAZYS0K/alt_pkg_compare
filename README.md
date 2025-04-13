@@ -1,6 +1,6 @@
 #ALT Linux Package Comparator
 
-A C++ utility to compare binary packages between ALT Linux branches
+A C++ utility to compare binary packages between ALT Linux branches, crates a json file with all the differences
 
 ## Requirments
 
