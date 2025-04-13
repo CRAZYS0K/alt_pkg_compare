@@ -1,0 +1,3 @@
+/home/sok/alt_pkg_compare/build/_deps/jsoncpp-subbuild/CMakeFiles/jsoncpp-populate.dir
+/home/sok/alt_pkg_compare/build/_deps/jsoncpp-subbuild/CMakeFiles/edit_cache.dir
+/home/sok/alt_pkg_compare/build/_deps/jsoncpp-subbuild/CMakeFiles/rebuild_cache.dir

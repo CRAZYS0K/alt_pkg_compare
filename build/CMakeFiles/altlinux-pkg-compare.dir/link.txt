@@ -1,0 +1,1 @@
+/usr/bin/c++ "CMakeFiles/altlinux-pkg-compare.dir/src/main.cpp.o" "CMakeFiles/altlinux-pkg-compare.dir/src/alt_pkg_compare.cpp.o" -o bin/altlinux-pkg-compare  -Wl,-rpath,/home/sok/alt_pkg_compare/build/lib /usr/lib64/libcurl.so lib/libjsoncpp.so.1.9.5 
